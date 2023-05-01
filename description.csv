@@ -1,0 +1,48 @@
+Variable,Description
+StartDate,Date time the recipient started the survey
+EndDate,Date time the recipient ended the survey
+Status, boolean
+Progress,Percentage recipient completed
+Duration (in seconds),Time in seconds the recipient spent on the survey
+Finished,Did the recipient complete the survey?
+RecordedDate,Date time the survey was completed/stopped
+ResponseId,
+RecipientCity,Recipient's city where suvey was taken
+RecipientCountry,Recipient's country where suvey was taken
+Q1,Which of the following best describes how people value data?
+Q2,Which of the following best describes the overall R&D data strategy?
+Q3,"How familiar are you with the concept F.A.I.R. data principles? (F.A.I.R. data are Findable, Accessible, Interoperable, and Re-usable)"
+Q4,To what extent do you disagree or agree with the following statement: Biogen leverages data effectively to drive decisions in all aspects of the business.
+Q5,How difficult or easy is it to locate the data you need to perform your job function?
+Q6,To what extent does R&D prioritize investment in data infrastructure?
+Q7,How easy is it to access and use R&D data that you don’t interact with every day?
+Q8,How easy is it to access and use R&D data that wasn't created by you?
+Q9,How easy is it to access and use data from non-R&D functions? (functions outside of your own)
+Q10,What kind of data do you use most frequently? (choose one from the list you made in the previous question)THE FOLLOWING QUESTIONS WILL ALL REFERENCE THIS KIND OF DATA.
+Q10_70_TEXT,"Other, specify below:  (70) "
+Q11_1,Find the data I need (1)
+Q11_2,Access the data I need (4)
+Q11_3,Understand the data based on context (metadata) (5)
+Q11_4,Transform the data into the format I need (6)
+Q11_5,Assess data quality (7)
+Q11_6,Aggregate the data with other datasets (8)
+Q11_7,Visualize the data (9)
+Q11_8,Analyze the data (10)
+Q11_9,Re-use the data (11)
+Q11_10,"Share or exchange the data with others, internally (12)"
+Q11_11,"Share or exchange the data with others, externally (13)"
+Q11_12,Store the data I need for active use (14)
+Q11_13,Archive the data (15)
+Q11_14,Appropriately dispose of the data (16)
+Q12,"In general, if the subject matter expert or data owner is not available or no longer at Biogen, how trustworthy is this kind of data? (in other words, how confidently can it be used and re-used by others at Biogen?)"
+Q13,To what extent to you disagree or agree with this statement: Biogen has well defined data standards for this kind of data.
+Q14,To what extent are data standards applied to this kind of data at Biogen?
+Q15,How often is this data referenced by others outside the scope of the initial project for which it was generated?
+Q16,"How often does your work with this data include one or more manual steps (e.g. processing, sharing, reporting)?"
+Q17,"
+Is there a designated person(s) accountable for decisions made about this domain of data?"
+Q18,"
+For which stage of the data lifecycle are you most accountable in your current role?"
+Q19,"If you have any comments about Biogen's data ecosystem that you want to share with us, please put them in the comment box below. There are just 4 demographic questions remaining."
+Q20,Which of the following best describes the R&D sub-function or Biogen function in which you currently work?
+Gc,
